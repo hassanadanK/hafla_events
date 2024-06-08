@@ -11,7 +11,7 @@ return (
           <p className="p-regular-20 md:p-regular-24">Book and learn helpful tips from 3,168+ mentors in world-class companies with our global community.</p>
           <Button size="lg" asChild className="button w-full sm:w-fit">
             <Link href="#events">
-              Explore Now
+              Explore Now!
             </Link>
           </Button>
         </div>
